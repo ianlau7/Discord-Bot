@@ -1,0 +1,1 @@
+{"name":"IanBot","version":"1.0.0","description":"Discord Bot","main":"bot.js","author":"Ian Lau","dependencies":{"winston":"^3.4.0"}}
